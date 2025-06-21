@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://t3.ftcdn.net/jpg/02/52/38/80/240_F_252388016_KjPnB9vglSCuUJAumCDNbmMzGdzPAucK.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.recipes{
+   margin : 0 auto;
+   border: 2px solid black;
+   max-width: 800px;
+   height: 587px;
+   box-sizing: border-box;
+   background-color: white;
+}
+
+h1{
+    text-align: center;
+    font-size: 36px;
+}
+li{
+    font-size: 22px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}

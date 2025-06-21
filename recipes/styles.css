@@ -1,0 +1,39 @@
+div{    
+    margin : 10px auto;
+    border: 2px solid black;
+    max-width: 800px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+h1, h2{
+    text-align: center;
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 28px;
+}
+img{
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+}
+li{
+    font-size: 22px; 
+    padding:10px;
+}
+button{
+    margin: 0 auto;
+    padding: 8px 24px;
+    display: block;
+    border: none;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
